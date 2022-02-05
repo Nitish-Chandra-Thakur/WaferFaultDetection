@@ -5,7 +5,6 @@ class Preprocessor:
     """
         This class shall  be used to clean and transform the data before training.
 
-        Written By: iNeuron Intelligence
         Version: 1.0
         Revisions: None
 

@@ -7,7 +7,6 @@ class KMeansClustering:
     """
             This class shall  be used to divide the data into clusters before training.
 
-            Written By: iNeuron Intelligence
             Version: 1.0
             Revisions: None
 
